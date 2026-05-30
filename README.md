@@ -2,6 +2,9 @@
 
 Cyberpunk-style poker slot machine built with pure HTML, CSS and JavaScript.
 
+⚠️ This project is currently in development.
+Some systems, balancing, animations and features are unfinished.
+
 ✨ Features
 
 * 🎴 Poker hand detection system
@@ -46,10 +49,20 @@ https://bro-pixel11.github.io/DogeCasino/
 * CSS3
 * Vanilla JavaScript
 
+📌 Planned Features
+
+* Better balancing system
+* More visual effects
+* Soundtrack & audio upgrades
+* Multiplayer systems
+* Online leaderboard
+* Achievement system
+* Additional game modes
+
 👑 Author
 
 Created by bro-pixel11
 
 ⸻
 
-Made with ☠️ & neon energy
+Made with ☠️ & neon energy.
